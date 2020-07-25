@@ -1,0 +1,8 @@
+{
+  "name": "com.framepush.reducemotionpref",
+  "displayName": "Reduce Motion Pref",
+  "version": "0.0.1",
+  "keywords": [],
+  "description": "Provides access to system preference for reducing motion and animations.",
+  "type": "library"
+}
